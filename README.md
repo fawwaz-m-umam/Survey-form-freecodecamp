@@ -38,11 +38,8 @@ This project was built to complete the **Survey Form Certification Project** fro
 
 ## 📸 Preview
 
-Add your project screenshot here.
+![Alt text](./assets/preview.png)
 
-```bash
-/assets/preview.png
-```
 
 ## 📂 Folder Structure
 
