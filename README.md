@@ -37,7 +37,6 @@ This project was built to complete the **Survey Form Certification Project** fro
 [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## 📸 Preview
-
 ![Alt text](./assets/preview.png)
 
 
